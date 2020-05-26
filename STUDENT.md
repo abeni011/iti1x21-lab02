@@ -1,8 +1,6 @@
-```
-Student name: Linda Danvers
-Student number: 123456
-Course code: ITI1121
-Lab: Lab02
-Course section: 02
+Student name: Alex Benimana
+Student number: 8524206
+Course code: ITI521
+Lab: Lab01
+Course section: 01
 Java: 1.8
-```
